@@ -1,1 +1,1 @@
-# sandhyan-github.io
+# sandhyan-git.github.io
